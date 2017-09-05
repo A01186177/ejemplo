@@ -1,2 +1,2 @@
 # ejemplo
-prueba de clase
+prueba de clase de sistemas en tiempo real
